@@ -1,5 +1,5 @@
 # 2023년 AWS DeepRacer Championship 춘천
-제2회 AWS DeepRacer Championship 춘천
+제1회 AWS DeepRacer Championship 춘천
 
 ```결승 진출 실패```
 
